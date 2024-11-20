@@ -2,12 +2,13 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { Container, Card, Row, Col, Button } from 'react-bootstrap';
 import { motion } from 'framer-motion';
+import mern from "/src/assets/mern.png"
 
 // Data for the technologies
 const techData = {
   mern: {
     title: "MERN Stack",
-    image: "src/assets/mern.png",
+    image: mern,
     description: `
       The MERN stack is a collection of four key technologies: MongoDB, Express.js, React, and Node.js.
       Together, they provide an end-to-end framework for developers to work on both the front-end and back-end using JavaScript.
