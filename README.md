@@ -9,8 +9,6 @@ Dhan is a modern financial platform that empowers users to invest and trade in s
 ## Features
 - **Landing Page**: A visually appealing introduction to the platform with quick access to login and sign-up features.
 - **User Dashboard**: A personalized dashboard with portfolio overview, recent transactions, and a watchlist for monitoring selected assets.
-- **Portfolio Management**: Comprehensive tools to view, sort, and manage investments across various asset types.
-- **Trade Execution**: Intuitive interface for executing buy and sell orders with live price charts and transaction history.
 - **Admin Panel**: Tools for managing user accounts, transactions, and approvals.
 - **Mobile-Responsive Design**: Optimized user experience for mobile devices with responsive layouts.
 
